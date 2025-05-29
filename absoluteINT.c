@@ -8,7 +8,7 @@ int main(){
     }
     else{
         a = a * -1;
-        printf("The abs olute value of number is : %d",a);
+        printf("The absolute value of number is : %d",a);
     }
     return 0;
     }
